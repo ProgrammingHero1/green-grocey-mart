@@ -1,0 +1,12 @@
+body{
+    background-image: repeating-conic-gradient(red 10%, yellow 20%);
+}
+h2, p, div{
+    text-align: center;
+}
+
+.margin-auto{
+    width: 300px;
+    margin: auto;
+    text-align: left;
+}
