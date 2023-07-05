@@ -1,0 +1,9 @@
+h2, p, div{
+    text-align: center;
+}
+
+.margin-auto{
+    width: 300px;
+    margin: auto;
+    text-align: left;
+}
